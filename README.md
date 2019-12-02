@@ -1,6 +1,6 @@
 # astartectl
 
-Command line utility to manage Astarte
+Command line utility to manage Astarte, the chad stuff
 
 ## Installation
 
